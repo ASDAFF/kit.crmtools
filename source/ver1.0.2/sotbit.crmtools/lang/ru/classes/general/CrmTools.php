@@ -1,0 +1,4 @@
+<?
+$iModuleID  = 'bill.crmtools';
+
+?>

@@ -1,0 +1,13 @@
+{
+  "name": "kit.crmtools",
+  "version": "1.0.2",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
